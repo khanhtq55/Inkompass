@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="inkompass.hrc.com.vn" resolutions="1x" timestamp="1524025384141">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="inkompass.hrc.com.vn" resolutions="1x" timestamp="1524667701364">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="387898862" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3762068114" ref="index"/>
-    <file name="index.css" crc="4183953466" ref="index"/>
-    <file name="nomq_index.css" crc="3807565945" ref="index"/>
+    <file name="master_a-master.css" crc="255634156" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="211047559" ref="index"/>
+    <file name="index.css" crc="369250316" ref="index"/>
+    <file name="nomq_index.css" crc="428994870" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -36,7 +36,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1.jpg" crc="4191803668" ref="index"/>
+    <file name="2.jpg" crc="4279528209" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="layer 2.png" crc="3964729736" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -44,16 +50,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2.png" crc="4052318870" seo="true" ref="index">
+    <file name="22.jpg" crc="203249919" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 1200x600-crop-u1709.jpg" crc="269230442" seo="true" ref="index">
+    <file name="_dsc1143.jpg" crc="250259677" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_0029.jpg" crc="4224193492" seo="true" ref="index">
+    <file name="huy_7959.jpg" crc="3963185100" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -71,28 +77,28 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 1200x600-crop-u17092.jpg" crc="269230442" seo="true" ref="index">
+    <file name="_dsc1143-crop-u1709.jpg" crc="4067113311" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 1200x600-crop-u17093.jpg" crc="3968156395" seo="true" ref="index">
+    <file name="_dsc1143-crop-u17092.jpg" crc="4097811792" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 1200x600-crop-u17094.jpg" crc="439526049" seo="true" ref="index">
+    <file name="_dsc1143-crop-u17093.jpg" crc="197666370" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="hrc_green_logo-crop-u1413.png" crc="4148805534" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2321x214.png" crc="74405195" seo="true" ref="index">
+    <file name="2321x214.jpg" crc="3975386336" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_0029320x214.jpg" crc="4066252942" seo="true" ref="index">
+    <file name="huy_7959320x214.jpg" crc="3777518121" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 1200x600-crop-u17095.jpg" crc="3854242727" seo="true" ref="index">
+    <file name="_dsc1143-crop-u17094.jpg" crc="4173704753" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4128520551" seo="true" mt="1524025343642" redirect="true"/>
+  <file name="index.html" crc="3858710591" seo="true" mt="1524667697248" redirect="true"/>
 </manifest>
