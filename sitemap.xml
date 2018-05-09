@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://inkompass.hrc.com.vn/index.html</loc>
-    <lastmod>2018-04-25</lastmod>
+    <lastmod>2018-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -21,6 +21,15 @@
       <image:loc>http://inkompass.hrc.com.vn/images/_dsc1143.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://inkompass.hrc.com.vn/images/pham-minh-nguyet.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://inkompass.hrc.com.vn/images/huy_7979-crop-u6174.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://inkompass.hrc.com.vn/images/tran-trung-hieu.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://inkompass.hrc.com.vn/images/huy_7959.jpg</image:loc>
     </image:image>
     <image:image>
@@ -33,10 +42,37 @@
       <image:loc>http://inkompass.hrc.com.vn/images/_dsc1143-crop-u1709.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://inkompass.hrc.com.vn/images/pham-minh-nguyet-crop-u6117.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://inkompass.hrc.com.vn/images/tran-trung-hieu-crop-u6147.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://inkompass.hrc.com.vn/images/huy_7979-crop-u61742.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://inkompass.hrc.com.vn/images/_dsc1143-crop-u17092.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://inkompass.hrc.com.vn/images/pham-minh-nguyet-crop-u61172.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://inkompass.hrc.com.vn/images/tran-trung-hieu-crop-u61472.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://inkompass.hrc.com.vn/images/huy_7979-crop-u61743.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://inkompass.hrc.com.vn/images/_dsc1143-crop-u17093.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://inkompass.hrc.com.vn/images/pham-minh-nguyet-crop-u61173.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://inkompass.hrc.com.vn/images/tran-trung-hieu-crop-u61473.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://inkompass.hrc.com.vn/images/huy_7979-crop-u61744.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://inkompass.hrc.com.vn/images/hrc_green_logo-crop-u1413.png</image:loc>
@@ -49,6 +85,15 @@
     </image:image>
     <image:image>
       <image:loc>http://inkompass.hrc.com.vn/images/_dsc1143-crop-u17094.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://inkompass.hrc.com.vn/images/pham-minh-nguyet-crop-u61174.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://inkompass.hrc.com.vn/images/tran-trung-hieu-crop-u61474.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://inkompass.hrc.com.vn/images/huy_7979-crop-u61745.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

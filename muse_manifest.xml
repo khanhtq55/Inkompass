@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="inkompass.hrc.com.vn" resolutions="1x" timestamp="1524667701364">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="inkompass.hrc.com.vn" resolutions="1x" timestamp="1525847529684">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="255634156" ref="index"/>
+    <file name="master_a-master.css" crc="4176196448" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="211047559" ref="index"/>
-    <file name="index.css" crc="369250316" ref="index"/>
-    <file name="nomq_index.css" crc="428994870" ref="index"/>
+    <file name="index.css" crc="4253128836" ref="index"/>
+    <file name="nomq_index.css" crc="3911202722" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -59,6 +59,15 @@
     <file name="_dsc1143.jpg" crc="250259677" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="pham-minh-nguyet.jpg" crc="4170588171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="huy_7979-crop-u6174.jpg" crc="3870080858" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tran-trung-hieu.jpg" crc="3823864842" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="huy_7959.jpg" crc="3963185100" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -77,13 +86,40 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="_dsc1143-crop-u1709.jpg" crc="4067113311" seo="true" ref="index">
+    <file name="_dsc1143-crop-u1709.jpg" crc="191836525" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="_dsc1143-crop-u17092.jpg" crc="4097811792" seo="true" ref="index">
+    <file name="pham-minh-nguyet-crop-u6117.jpg" crc="204739140" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="_dsc1143-crop-u17093.jpg" crc="197666370" seo="true" ref="index">
+    <file name="tran-trung-hieu-crop-u6147.jpg" crc="4235991562" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="huy_7979-crop-u61742.jpg" crc="260853293" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_dsc1143-crop-u17092.jpg" crc="3872679033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pham-minh-nguyet-crop-u61172.jpg" crc="3843976887" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tran-trung-hieu-crop-u61472.jpg" crc="443179090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="huy_7979-crop-u61743.jpg" crc="3769251300" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_dsc1143-crop-u17093.jpg" crc="4061416175" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pham-minh-nguyet-crop-u61173.jpg" crc="309978054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tran-trung-hieu-crop-u61473.jpg" crc="4109029568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="huy_7979-crop-u61744.jpg" crc="303038664" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="hrc_green_logo-crop-u1413.png" crc="4148805534" seo="true" ref="index">
@@ -95,10 +131,19 @@
     <file name="huy_7959320x214.jpg" crc="3777518121" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="_dsc1143-crop-u17094.jpg" crc="4173704753" seo="true" ref="index">
+    <file name="_dsc1143-crop-u17094.jpg" crc="4134396018" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pham-minh-nguyet-crop-u61174.jpg" crc="491203609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tran-trung-hieu-crop-u61474.jpg" crc="3929259808" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="huy_7979-crop-u61745.jpg" crc="4144066631" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3858710591" seo="true" mt="1524667697248" redirect="true"/>
+  <file name="index.html" crc="3854082509" seo="true" mt="1525803231419" redirect="true"/>
 </manifest>
